@@ -1,0 +1,93 @@
+.registration {
+    display: flex;
+}
+
+.container_registration {
+    display: flex;
+    flex-direction: row;
+}
+
+.registration_left-form {
+    width: 50%;
+    margin-top: 64px;
+}
+
+.registration_heading {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    color: #222222;
+    margin-bottom: 20px;
+}
+
+.registration_input {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 16px;
+    color: #B1B1B1;
+    background: #FFFFFF;
+    border: 1px solid #A4A4A4;
+    padding: 13px 170px 16px 17px;
+    margin-bottom: 20px;
+}
+
+.registration_radio {
+    margin-bottom: 35px;
+}
+
+.registration_paragraf {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 16px;
+    color: #B1B1B1;  
+    width: 359px;
+    margin-bottom: 39px;  
+}
+
+.registration_button {
+    background: #F16D7F;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    padding: 16px 25px;
+    border: none;
+    margin-bottom: 113px;
+}
+
+.registration_right {
+    width: 50%;
+    margin-top: 64px;
+}
+
+.registration_headingPerks {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    margin-bottom: 22px;
+}
+
+.registration_perks {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+    margin-bottom: 19px;
+}
+
+.fa-check {
+    color: black;
+}
