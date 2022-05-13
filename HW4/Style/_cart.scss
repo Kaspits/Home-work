@@ -1,0 +1,147 @@
+.cart_left {
+    margin-top: 96px;
+    margin-bottom: 72px;
+    width: 50%;
+}
+
+.cart {
+    width: 652px;
+    display: flex;
+    margin-bottom: 40px;
+    box-shadow: 17px 19px 24px rgba(0, 0, 0, 0.13);
+}
+
+.cartHeading {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color: #222222;
+    padding-bottom: 42px;
+    padding-left: 31px;
+}
+
+.cartTxt {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    color: #575757;
+    padding-left: 31px;
+    padding-bottom: 6px;
+}
+
+.cart-imput {
+    color: #656565;
+    border: 1px solid #EAEAEA;
+    margin-left: 25px;
+    padding-left:  1px;
+}
+
+.cart-button {
+    color: #000;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 17px;
+    background: #FFFFFF;
+    border: 1px solid #A4A4A4;
+    padding: 17px 40px;
+}
+
+.cart-form {
+    display: flex;
+    justify-content: space-around;
+}
+
+.cart_right {
+    width: 50%;
+    padding-top: 55px;
+    padding-left: 90px;
+}
+
+.container_cart {
+    display: flex;
+    flex-direction: row;
+}
+
+.cart_heading-right {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    color: #222222;
+    padding-bottom: 20px;
+}
+
+.cart_imput-right {
+    margin-bottom: 20px;
+    padding: 13px 200px 16px 17px;
+    outline: none;
+    border: 1px solid #A4A4A4;
+    color: #B1B1B1;
+    background: #FFFFFF;
+}
+
+.button_cart {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 11px;
+    line-height: 13px;
+    color: #4A4A4A;
+    background: #FFFFFF;
+    border: 1px solid #A4A4A4;
+    padding: 12px 15px;
+}
+
+.checkout {
+    padding-top: 28px;
+    padding-left: 90px;
+    margin-top: 39px;
+    background: #F5F3F3;
+    margin-left: 86px;
+}
+
+.checkout-txt {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 13px;
+    color: #4A4A4A;
+    padding-bottom: 12px;
+    text-align: right;
+    margin-right: 35px;
+}
+
+.checkout-txtBig {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    color: #222222;
+    padding-bottom: 20px;
+    margin-bottom: 17px;
+    border-bottom: 1px solid #E2E2E2;
+    text-align: right;
+    margin-right: 35px;
+}
+
+.checkout_button {
+    background: #F16D7F;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    padding: 15px 42px;
+    margin: 17px 42px 42px auto;
+    border: none;
+}
